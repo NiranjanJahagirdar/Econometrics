@@ -1,7 +1,10 @@
 # Econometrics
 Material collated and created as part of my Econometrics TAship
 
+# Practice
 
+- Problem Sheet 1 (Basics of linear regression)
+- Problem Sheet 2 (Multiple regression and interpretation)
 # Tests
 
 - Quiz 1 (Basics)
